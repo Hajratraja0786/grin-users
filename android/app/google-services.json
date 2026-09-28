@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "914097923431",
+    "project_id": "phone-auth-d6fa0",
+    "storage_bucket": "phone-auth-d6fa0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914097923431:android:7782f46595f6b969d13bc2",
+        "android_client_info": {
+          "package_name": "com.example.grin_users"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq5nc6EAo8a-EqR9GZHXR9NIcQuxRd5MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914097923431:android:cda15b60a4fbaa7bd13bc2",
+        "android_client_info": {
+          "package_name": "com.example.phoneauth"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAq5nc6EAo8a-EqR9GZHXR9NIcQuxRd5MY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
